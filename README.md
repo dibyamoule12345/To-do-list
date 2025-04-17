@@ -51,8 +51,8 @@
  <div class="todo-container">
  <h2>To-Do List</h2>
  <ul>
- <li><input type="checkbox"> writing</li>
- <li><input type="checkbox"> drawing</li>
+ <li><input type="checkbox"> Learn </li>
+ <li><input type="checkbox"> Practice </li>
  <li><input type="checkbox"> reading</li>
  <li><input type="checkbox"> Study</li>
  </ul>
